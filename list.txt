@@ -2,6 +2,6 @@ Perro
 Gato
 Animales
 Toro
-cabra
-otro
-aaaaaa
+Cabra
+Otro
+Aaaaaa
