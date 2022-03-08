@@ -1,0 +1,6 @@
+Perro
+Gato
+Animales
+Toro
+cabra
+otro
